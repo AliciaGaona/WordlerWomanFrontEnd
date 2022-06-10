@@ -1,0 +1,19 @@
+{
+  "name": "wordlerwomanfrontend",
+  "version": "1.0.0",
+  "description": "FrontEnd Wordle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliciaGaona/WordlerWomanFrontEnd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AliciaGaona/WordlerWomanFrontEnd/issues"
+  },
+  "homepage": "https://github.com/AliciaGaona/WordlerWomanFrontEnd#readme"
+}
