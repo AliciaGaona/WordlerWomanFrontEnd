@@ -1,0 +1,36 @@
+* {
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+    /*font-family: 'Press Start 2P', cursive;*/
+    font-family: Impact, Haettenschweiler, 'Arial Narrow', sans-serif;
+    font-size: larger;
+}
+body{
+    background-color: darkgray;
+    position: relative;
+}
+.contenedor{
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    position: static;
+}
+.words{
+    width: 310px;
+    height: 360px;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+input {
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    margin-left: 5px;
+    margin-bottom: 10px;
+}
+input[type=text]{
+    background-color: rgba(26, 26, 226, 0.26);
+    color: white;
+}
